@@ -1,8 +1,5 @@
-"""
-TITANIC DATASET - FULL EDA + PDF REPORT (VS CODE READY)
-Run: python demo.py
-Make sure Titanic_Dataset.csv is in SAME FOLDER as this file.
-"""
+
+
 
 # ------------------- IMPORTS -------------------
 import pandas as pd
